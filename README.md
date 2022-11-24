@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DuolaAmeng520
 - 👀 I’m interested in play game
 - 🌱 I’m currently learning unity and c#
-- 💞️ I’m looking to collaborate on Make one of your own games
+- 💞️ I want to make my own games independently
 - 📫 How to reach me 2638840043@qq.com
 
 <!---
